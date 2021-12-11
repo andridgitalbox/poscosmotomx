@@ -1,0 +1,12 @@
+http://localhost/cwmpos2/public/
+User : Admin
+Pw : mukhlis123
+-------------------------------------
+atau bisa juga register baru
+http://localhost/cwmpos2/public/ (Pilih menu register)
+atau bisa juga :
+http://localhost/cwmpos2/public/business/register
+-------------------------------------
+1. Impor DB ke phpmyadmin/ke server yang kalian punya (Lokasi database nya ada di dalam folder "db")
+2. setting database file bernama .env
+3. Jalankan browser http://localhost/cwmpos2/public/
